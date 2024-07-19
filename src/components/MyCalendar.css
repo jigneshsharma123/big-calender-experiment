@@ -1,0 +1,41 @@
+/* MyCalendar.css */
+.calendar-container {
+    margin: 20px;
+  }
+  
+  .rbc-toolbar {
+    background-color: #f1f3f4;
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .rbc-calendar {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+  }
+  
+  .rbc-event {
+    background-color: #4285f4;
+    color: white;
+    padding: 2px 5px;
+    border-radius: 4px;
+    font-size: 14px;
+  }
+  
+  .rbc-selected {
+    background-color: #4285f4 !important;
+    color: white !important;
+  }
+  
+  .rbc-today {
+    background-color: #e8f0fe;
+  }
+  
+  .rbc-time-view {
+    border-top: 1px solid #ddd;
+  }
+  
+  .rbc-agenda-view {
+    border-top: 1px solid #ddd;
+  }
+  
